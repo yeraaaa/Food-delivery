@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\bin\Debug\serikyerassylinfo.exe.config
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\bin\Debug\serikyerassylinfo.exe
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\bin\Debug\serikyerassylinfo.pdb
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.Form1.resources
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.exe
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.pdb
+C:\Users\Lenovo\source\repos\serikyerassylinfo\serikyerassylinfo\obj\Debug\serikyerassylinfo.Form2.resources
